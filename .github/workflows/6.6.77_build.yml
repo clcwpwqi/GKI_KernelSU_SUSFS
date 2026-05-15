@@ -1,4 +1,4 @@
-name: 内核构建 - Android 15 (6.6)
+name: 内核构建 - Android 15 (6.6.77)
 
 permissions:
   contents: write
